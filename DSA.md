@@ -7,5 +7,5 @@ starting from x all the adjacent nodes (including parent and child) will take on
 Find the time the tree will take to burn completely.
 
 
-And: Distance between the node x and the farthest node.
+Ans: Distance between the node x and the farthest node.
 
