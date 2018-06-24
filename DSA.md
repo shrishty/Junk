@@ -19,6 +19,7 @@ Eg. For 10?001, the number of possible strings are 100001 and 101001. So the out
 
 Given a file remove all the duplicated lines. What if the file is very large.
 
-**Ans**: [Bloom Filters](https://stackoverflow.com/questions/3751969/fastest-way-to-remove-duplicate-lines-in-very-large-txt-files)
-         [Hashing](https://stackoverflow.com/questions/2467353/memory-efficient-way-to-remove-duplicate-lines-in-a-text-file-using-c)
+**Ans**: 
+* [Bloom Filters](https://stackoverflow.com/questions/3751969/fastest-way-to-remove-duplicate-lines-in-very-large-txt-files)
+* [Hashing](https://stackoverflow.com/questions/2467353/memory-efficient-way-to-remove-duplicate-lines-in-a-text-file-using-c)
 
