@@ -23,3 +23,23 @@ Given a file remove all the duplicated lines. What if the file is very large.
 * [Bloom Filters](https://stackoverflow.com/questions/3751969/fastest-way-to-remove-duplicate-lines-in-very-large-txt-files)
 * [Hashing](https://stackoverflow.com/questions/2467353/memory-efficient-way-to-remove-duplicate-lines-in-a-text-file-using-c)
 
+
+### Minimum swaps required to bring all elements less than or equal to k together
+
+Given an array of n positive integers and a number k. Find the minimum number of swaps required to bring all the numbers less than or equal to k together.
+eg: {4,1,2,7,5,3} if k=3 then 1 swap is enough.
+
+**Ans**: https://www.geeksforgeeks.org/minimum-swaps-required-bring-elements-less-equal-k-together/
+
+### Find the first circular tour that visits all petrol pumps
+
+Suppose there is a circle. There are n petrol pumps on that circle. You are given two sets of data.
+
+1. The amount of petrol that every petrol pump has.
+2. Distance from that petrol pump to the next petrol pump.
+
+Calculate the first point from where a truck will be able to complete the circle (The truck will stop at each petrol pump and it has infinite capacity). Expected time complexity is O(n). Assume for 1 litre petrol, the truck can go 1 unit of distance.
+
+For example, let there be 4 petrol pumps with amount of petrol and distance to next petrol pump value pairs as {4, 6}, {6, 5}, {7, 3} and {4, 5}. The first point from where truck can make a circular tour is 2nd petrol pump. Output should be “start = 1” (index of 2nd petrol pump).
+
+**Ans**: https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
